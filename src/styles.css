@@ -1,0 +1,28 @@
+body {
+  background-color: blanchedalmond;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  width: 800px;
+  height: 2rem;
+}
+.emoji {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.heading {
+  margin-top: 4rem;
+  font-weight: bold;
+}
+.input {
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+  border-radius: 1rem;
+}
+.emoji:hover {
+  font-size: 2.5rem;
+}
