@@ -5,4 +5,4 @@ Knowing the real meaning of emojis can be difficult at times. Here's the app for
 
 Live Project - https://xk3x9n.csb.app/
 
-![](https://raw.githubusercontent.com/prabalsh19/markEight/main/emojiInterpreter.PNG)
+![](https://raw.githubusercontent.com/prabalsh19/markEight/main/emoji.PNG)
