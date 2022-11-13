@@ -4,7 +4,7 @@ import "./styles.css";
 export default function App() {
   const [emoji, setEmoji] = useState("");
   const [meaning, setMeaning] = useState("Translation will appear here..");
- const emojiDictionary = {
+  const emojiDictionary = {
     "💘": "Heart and arrow",
     "🥭": "Mango",
     "🏇": "Horse racing",
@@ -14,7 +14,8 @@ export default function App() {
     "🥡": "Takeout box",
     "❤️": "Love",
     "😑": "Annoyance",
-    "🔥": "Fire"
+    "🔥": "Fire",
+    "🎂": "Birthday"
   };
   const clickHandler = (emoji) => {
     setMeaning(emojiDictionary[emoji]);
